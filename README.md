@@ -1,4 +1,4 @@
-# ??? Protector
+#  Protector
 
 ## Federated Learning Trust & Safety Engine
 
